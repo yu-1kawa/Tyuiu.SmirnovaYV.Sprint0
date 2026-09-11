@@ -8,7 +8,7 @@ namespace Tyuiu.SmirnovaYV.Sprint0.Task5.V0
             Console.WriteLine("A+B=" + DataService.Addition(1, 5));
             Console.WriteLine("a-B=" + DataService.Subtraction(15, 5));
             Console.WriteLine("A*B=" + DataService.Multiplication(10, 10));
-            Console.WriteLine("A/B=" + DataService.Division(9, 3));
+            Console.WriteLine("A/B=" + DataService.Division(9, 0));
             Console.ReadKey();
         }
     }
